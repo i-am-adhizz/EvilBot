@@ -1,15 +1,15 @@
 {
-      "name": "Evil Bot",
+      "name": "Mʀ.MᴜᴢɪᴋBᴏᴛ",
       "description": "An Anime Theme Telegram group management bot.",
       "keywords": [
          "telegram",
          "anime",
          "group",
          "manager",
-         "Evil"
+         "Muzik"
       ],
     
-   "logo":    "https://telegra.ph/file/2345311d29a66213a9d98.jpg",  
+   "logo":    "https://telegra.ph/file/0aacb3eb44802967098de.jpg",  
    "repository": "https://github.com/shrvan42/EvilBot",
    "addons": [
           {
